@@ -1,0 +1,16 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cc4eb22e-b027-4a9c-88b1-63680034b207)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (text "Revision history:\n1.0.0\n- changed SMD pinheader footprints to Pin1Left\n- corrected D+/D- connections\n1.1.0\n- added solder-jumper for 3v3 of i2c connector\n- adjusted the resistors for LEDs\n- fixed schematic-layout references parity"
+    (at 15.24 30.48 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5f8a242f-2d41-4a38-9704-c039c4829188)
+  )
+)
