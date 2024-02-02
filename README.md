@@ -1,5 +1,6 @@
-GroundStudio
+GroundStudio Jade U1+
 ====================================
+![JadeU1+](https://github.com/GroundStudio/Jade_U1Plus/assets/77836107/a80fd89e-dc2f-4610-ab87-dde9e823bcea)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/)
 
@@ -7,21 +8,21 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Short description of the board.
+Development board based on ATmega328PB chip.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Firmware) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Hardware) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
+* [/Documentation](https://github.com/GroundStudio/Jade_U1Plus/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/Jade_U1Plus/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/Jade_U1Plus/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/Jade_U1Plus/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
 * [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [V1.0.0] Initial version
+* [V1.1.0] Initial version
 
 License
 -------------------
