@@ -31,3 +31,10 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000024.html)   
+   
+[![certification-mark-RO000024-wide](https://github.com/GroundStudio/Jade_U1Plus/assets/77836107/925190d0-ca57-440a-a36a-8a3ee2fed3b1)
+](https://certification.oshwa.org/ro000024.html)
